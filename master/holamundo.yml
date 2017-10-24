@@ -1,6 +1,0 @@
-message: Hola Don Mariano!!!!
-
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8084/eureka/
